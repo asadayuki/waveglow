@@ -10,20 +10,20 @@
     - Number of Tables              : 1
     - Number of Graphs/Plots        : 0
     - Number of Equations           : 12
-    - Number of Proofs              :   ??
+    - Number of Proofs              :  N/A (I'm not sure "proof" can be in machine learning papers, good accuracy?)
     - Exact Compute Specified   : Yes
     - Hyper-parameters Specified    : Yes (Not included in the paper, but listed in config on Github repository)
     - Compute Needed    : Yes
     - Data Available    : Yes
     - Pseudo Code       : No, but real code is provided
     - Number of Conceptualization Figures   : 1
-    - Uses Exemplar Toy Problem : ??
+    - Uses Exemplar Toy Problem : No
     - Number of Other Figures   : 0
-    - Rigor vs Empirical    :   ??
-    - Paper Readability     :   Difficult for me to understand the equation...
-    - Algorithm Difficulty  :   Difficult, but code is 
+    - Rigor vs Empirical    :   Empirical(?)
+    - Paper Readability     :   Text part is easily readable, but difficult for me to understand equations...
+    - Algorithm Difficulty  :   Difficult to understand equations, not much explanation, but maybe we can look at the code
     - Primary Topic         :   ??
-    - Looks Intimidating    :   ??
+    - Looks Intimidating    :   For me, yes.  But the github repository looks friendly...
     
     - The evaluation of audio quality was done using Amazon Mechanical Turk (we won't be able to do the same...)
         
