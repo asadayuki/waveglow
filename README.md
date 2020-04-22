@@ -6,8 +6,27 @@
 
     https://github.com/NVIDIA/waveglow
 
-1. A review of the paper you are reproducing, following the guidelines laid out here: https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf (Links to an external site.)
-
+1. A review of the paper you are reproducing, following the guidelines laid out here: https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf 
+    - Number of Tables              : 1
+    - Number of Graphs/Plots        : 0
+    - Number of Equations           : 12
+    - Number of Proofs              :   ??
+    - Exact Compute Specified   : Yes
+    - Hyper-parameters Specified    : Yes (Not included in the paper, but listed in config on Github repository)
+    - Compute Needed    : Yes
+    - Data Available    : Yes
+    - Pseudo Code       : No, but real code is provided
+    - Number of Conceptualization Figures   : 1
+    - Uses Exemplar Toy Problem : ??
+    - Number of Other Figures   : 0
+    - Rigor vs Empirical    :   ??
+    - Paper Readability     :   Difficult for me to understand the equation...
+    - Algorithm Difficulty  :   Difficult, but code is 
+    - Primary Topic         :   ??
+    - Looks Intimidating    :   ??
+    
+    - The evaluation of audio quality was done using Amazon Mechanical Turk (we won't be able to do the same...)
+        
 1. A proposed timeline for reproducing the project. Should be milestones for each week for the rest of the quarter. That way we can see if you're on track.
     
     | Week | Plan | Actual |
