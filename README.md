@@ -31,7 +31,7 @@
     
     | Week | Plan | Actual |
     ----|----|---- |
-    | ~ May 22 | - Read the paper roughly | ... |
+    | ~ April 22 | - Read the paper roughly | ... |
     | ~ April 29 | - Understand the paper <br>  - Get the code from NVIDIA's repository and make it work with a pre-trained model <br> - List questions to ask during the meeting| ... |
     | ~ May 6 | - Train the model from scratch | ... |
     | ~ May 13 | - Train the model from scratch <br>  - Decide agenda for a presentation and get reviewed | ... |
