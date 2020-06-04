@@ -37,14 +37,14 @@ cd ../apex
 pip install -v --no-cache-dir ./
 ```
 
-### Prepare data
+### Prepare data for demo ( This uses public speech data called "LJSpeech-1.1") 
 
 ```
 cd ../waveglow/experiments
 sh prepare_data.sh
 ```
 
-### Prepare a config file (Manually edit a file)
+### Prepare a config file for demo (Manually edit a file)
 
 - Open config.json in waveglow/data/LJSpeech-1.1/config.json
 - Modify "checkpoints" ("train_config" > "output_directory") to "../data/LJSpeech-1.1/checkpoints"
@@ -57,7 +57,7 @@ cd ../src
 python train.py -c ../data/LJSpeech-1.1/config.json
 ```
 
-### Inference
+### Inference (This needs to be done after all the steps above)
 
 try running notebook/demo.ipynb
 
