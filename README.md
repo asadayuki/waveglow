@@ -1,3 +1,5 @@
+## How to use
+
 ### Create an environment with python = 3.6
 
 ```
@@ -46,7 +48,7 @@ cd ../waveglow/experiments
 sh prepare_data.sh
 ```
 
-### Prepare a config file (Manually edit the file)
+### Prepare a config file (Manually edit a file)
 
 - Open config.json in waveglow/data/LJSpeech-1.1/config.json
 
