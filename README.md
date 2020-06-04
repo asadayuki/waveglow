@@ -1,6 +1,12 @@
-## 
+## About the project
 
-## How to use
+- This repository is for the couse work of [CS396/496: Deep Learning For Practitioners @ NU](https://pseeth.github.io/deep-learning-for-practitioners/)
+
+- In the course, we read the paper of "Waveglow" and reproduced the result in the paper.
+
+- Details of our project is in [waveglow project](https://github.com/asadayuki/waveglow/blob/master/doc/plan.md)
+
+## How to use the code
 
 ### Create an environment with python = 3.6
 
@@ -46,7 +52,7 @@ sh prepare_data.sh
 
 ### Prepare a config file for demo (Manually edit a file)
 
-- Open config.json in waveglow/data/LJSpeech-1.1/config.json
+- Open ../data/LJSpeech-1.1/config.json
 - Modify "checkpoints" ("train_config" > "output_directory") to "../data/LJSpeech-1.1/checkpoints"
 - Modify "train_files.txt" ("data_config" > "training_files") to "../data/LJSpeech-1.1/train_files.txt",
 
