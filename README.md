@@ -20,7 +20,7 @@ git clone https://github.com/NVIDIA/apex
 
 ```
 cd waveglow
-git submodule init
+git submodule add http://github.com/NVIDIA/tacotron2 src/tacotron2
 git submodule update
 ```
 
