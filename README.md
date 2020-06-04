@@ -1,38 +1,50 @@
 ### Create an environment with python = 3.6
 
+```
 conda create -n [name of environment] python=3.6 
 
 conda activate [name of environment]
+```
 
 ### Download code
 
+```
 git clone https://github.com/asadayuki/waveglow.git
 
 git clone https://github.com/NVIDIA/apex
+```
 
 ### Set up sub-modules 
 
+```
 cd waveglow
 
 git submodule init
 
 git submodule update
+```
 
 ### Install libraries
 
+```
 pip install -r requirements.txt
+```
 
 ### Set up apex
 
+```
 cd ../apex
 
 pip install -v --no-cache-dir ./
+```
 
 ### Prepare data
 
+```
 cd ../waveglow/experiments
 
 sh prepare_data.sh
+```
 
 ### Prepare a config file (Manually edit the file)
 
@@ -44,10 +56,11 @@ sh prepare_data.sh
 
 ### Train 
 
+```
 cd ../src
 
 python train.py -c ../data/LJSpeech-1.1/config.json
-
+```
 
 
 
