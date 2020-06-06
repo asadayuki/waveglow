@@ -8,6 +8,10 @@
 
 ## Reproduction result
 
+![graph](https://user-images.githubusercontent.com/55772141/83953931-46409b80-a80a-11ea-923c-5a3e41c9938f.png)
+
+166 epochs - 181721 mini bacthes
+
 1. [original](https://drive.google.com/file/d/1hMlXP0V5-E8PsMyfvQ5sF-bsWLRVj7f6/view?usp=sharing), [repduction result](https://drive.google.com/file/d/1NoVsutyB6uyyPNd2yvmqY8INlXLwRbUL/view?usp=sharing)
 
 2. [original](https://drive.google.com/file/d/1Rskr5KBvRn831sCUEMVNflkOOEvkMmjd/view?usp=sharing), [repduction result](https://drive.google.com/file/d/1p7WGOqZbpxsUIV35A5sEzs2Eibf6Sc-5/view?usp=sharing)
